@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoeyT.
-- 👀 I’m interested in AI and algorithms.
-- 🌱 I’m currently a student.
+- 🌱 I’m currently a Computer Science student.
+- 👀 I’m interested and focused in algorithms and AI.
 
 <!---
 RoeyT/RoeyT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
